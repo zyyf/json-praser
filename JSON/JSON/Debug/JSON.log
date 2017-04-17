@@ -1,0 +1,9 @@
+﻿  Value.cpp
+c:\users\administrator\onedrive\c++\json\json\value.cpp(95): error C2511: “void Value::pushBack(const char *)”:“Value”中没有找到重载的成员函数
+  c:\users\administrator\onedrive\c++\json\json\value.h(12): note: 参见“Value”的声明
+c:\users\administrator\onedrive\c++\json\json\value.cpp(96): error C2228: “.pushBack”的左边必须有类/结构/联合
+  Read.cpp
+  main.cpp
+  JSONObject.cpp
+  Array.cpp
+  正在生成代码...
